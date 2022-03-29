@@ -1,0 +1,2 @@
+x="simplilearn"
+print(x)
