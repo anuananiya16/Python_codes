@@ -1,2 +1,0 @@
-x="simplilearn"
-print(x)
